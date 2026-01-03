@@ -1,0 +1,13 @@
+
+
+- alles für audios machen
+- drag-and-drop bug fixen
+- ggf. loading screen erstellen
+- shortcuts
+- tooltips
+- MediaMenu
+- Ursprungsdatei löschen
+- ggf. log-fenster erstellen
+- beim 2ten mal auf start conversion, dann dafür sogeg, dass es den textn nicht doppelt gibt
+- verhinder, dass 2 mal die benachitigung kommt, das man erfolgreich etwas hochgeladen hat.
+- alle bildformate bei filetype checker hochladbar machen

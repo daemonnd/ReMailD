@@ -1,0 +1,10 @@
+// In .vscode/tasks.json
+{
+  "tasks": [
+    {
+      "label": "Setup Terminal",
+      "type": "shell",
+      "command": "source .venv/bin/activate && cd .."
+    }
+  ]
+}

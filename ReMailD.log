@@ -1,0 +1,6 @@
+[34m2025-11-04 13:25:56 - DEBUG - Initializing the login manager...[0m
+[34m2025-11-04 13:25:56 - DEBUG - Checking the dependencies...[0m
+[33m2025-11-04 13:25:56 - WARNING - Recovery master password is missing[0m
+[33m2025-11-04 13:25:56 - WARNING - Recovery credentials are missing[0m
+[1;31m2025-11-04 13:25:56 - CRITICAL - Because of recovery data missing, you will need to sign up.[0m
+[32m2025-11-04 13:25:56 - INFO - There are some important dependencies missing. After signing up, you can launch remaild normally.[0m

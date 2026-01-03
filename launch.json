@@ -1,0 +1,6 @@
+{
+    "lang": "en", 
+    "logging_level": "INFO", 
+    "repeat_range": 5,
+    "email_check_interval": 180
+}

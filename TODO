@@ -1,0 +1,17 @@
+In manager.py funktioniert edit_acc_path() obwhol der zielpfad kein valider account ist
+In repository.py in check account hinzufügen, dass es in einem account ordner keine andere dateien/ordner geben kann
+prüfen, ob edit_acc_path() in manager.py wirklich funktioniert, wenn der account beim ausführen des programms schon woanders ist
+0. edit_acc_path() in paths manager hinzufügen
+0. hinzufügen, dass recovery NICHT als name bei accountPaths.json existieren kann!
+0. bei der account session bei den validators prüfen, ob da \ drinne sind. 
+0. Bei AccountMeta mahcen, dass profile_name funktioniert
+0. accountmanagement (soweit fertig) mit main.py kombinieren, -e / --edit hinzufügen zum bearbeiten eines accounts, AUCH FÜR RECOVERY EMAIL
+0. bei der account session: bei dem email passwort nach 3 wiederholungen wieder nach dem passwort fragen, intros bunt machen
+0. security login (BIS AUF 2FA) machen.
+0. Sich um tests (zumindest für sign up) kümmern
+2. für die sessions auch ein dict für bottom_toolbar machen
+1. paths_manager.py: add_acc machen und danach den rest
+3. Wie soll das mit dem login sein (masterkennwort, admirechte, 2FA)
+2. AccountFiles updaten
+2. Machen, dass auto Vervollständigung für imap, smtp, pots usw. über EIN zentrales dict für MEHR emailanbieter laufen. (vll. über eine @dataclass die dann die werte von einer json datei verwendet, weil @dataclass ist besser als dict.)
+

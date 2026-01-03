@@ -1,0 +1,47 @@
+{
+    "cSpell.words": [
+        "andere",
+        "answermode",
+        "auch",
+        "cryptofile",
+        "cryptokey",
+        "danach",
+        "dass",
+        "dklen",
+        "einmal",
+        "emailconfig",
+        "encryptor",
+        "errorprotocol",
+        "Fernet",
+        "gegeben",
+        "gensalt",
+        "hashpw",
+        "imapserver",
+        "jsonfile",
+        "launchfile",
+        "loginpw",
+        "machen",
+        "ordners",
+        "pfad",
+        "remaild",
+        "wird",
+        "levelname",
+        "rmap",
+        "ndarray",
+        "pwnedpasswords",
+        "zxcvbn"
+
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+
+
+    "terminal.integrated.automationProfile.linux": {
+    "path": "/bin/bash",
+    "args": ["-c", "source .venv/bin/activate && cd .."]
+
+     }
+}
