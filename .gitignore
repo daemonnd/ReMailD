@@ -1,0 +1,10 @@
+.vscode/
+libary/
+__pycache__/
+*.pyc
+.venv/
+tests/
+user_accounts/
+TODO
+argparseeee.pdf
+ReMailD.log
